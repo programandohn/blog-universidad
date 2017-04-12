@@ -1,2 +1,18 @@
-# blog-universidad
-Blog para crecimiento de comunidad de universidad a través de la publicación de artículos o eventos en blog.
+Blog de universidad
+
+[Descripción del proyecto]
+
+[Cómo se instala]
+-- Requisitos
+-- Última versión
+-- Encargados del proyecto
+
+[Uso]
+
+
+[Documentación]
+
+[RoadMap]
+
+[Licencia]
+
